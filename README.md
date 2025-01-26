@@ -37,4 +37,4 @@ This project is a Discord bot script that handles various interactions using the
 
 1. Clone this repository:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/YashChopra25/Discord-Bot
